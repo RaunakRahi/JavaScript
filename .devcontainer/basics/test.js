@@ -1,1 +1,1 @@
-console.log("Raunak Kumar, Please study hard than anyone")
+console.log("Hello Raunak")
